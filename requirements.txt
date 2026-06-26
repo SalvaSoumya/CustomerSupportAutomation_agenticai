@@ -4,15 +4,9 @@ langchain-core
 langchain-community
 langchain-openai
 langchain-text-splitters
-
 openai
-
 faiss-cpu
-
 sentence-transformers
-
 pypdf
-
 python-dotenv
-
 tiktoken
