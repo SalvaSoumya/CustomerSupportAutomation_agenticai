@@ -13,7 +13,23 @@ The application uses **LangGraph** to orchestrate the workflow, **LangChain** an
 The workflow simulates how modern AI-driven customer support systems operate in real-world organizations by combining intelligent routing, knowledge retrieval, memory management, and human supervision.
 
 ---
+---
 
+# 🔗 GitHub Repository
+
+The complete source code for this project is available on GitHub.
+
+**Repository Link:**
+
+```text
+https://github.com/SalvaSoumya/CustomerSupportAutomation_agenticai
+```
+
+Or directly visit:
+
+👉 **https://github.com/SalvaSoumya/CustomerSupportAutomation_agenticai**
+
+---
 # 🎯 Project Objectives
 
 The main objectives of this project are:
